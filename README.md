@@ -11,7 +11,7 @@ Pensamento Computacional e Automação com Python
 - [@João Melo](https://www.github.com/jzmeloh)
 
   
-- [RM569223]
-- [571583]
-- [571116]
+- [RM-569223]
+- [RM-571583]
+- [RM-571116]
 
