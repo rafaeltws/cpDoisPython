@@ -1,4 +1,3 @@
-# Entrada de dados
 estado = int(input("Digite o código do estado de origem (1 a 5): "))
 pesoToneladas = float(input("Digite o peso da carga em toneladas: "))
 codigoCarga = int(input("Digite o código da carga (10 a 40): "))
