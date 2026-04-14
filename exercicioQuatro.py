@@ -18,7 +18,6 @@ def calcular_bonus(cargo, recebeu_bonus):
            return 100
    return 0
 
-# ---------------- PROGRAMA PRINCIPAL ----------------
 nome = input("Digite o nome do funcionário: ")
 cargo = int(input("Cargo (1-Gerente, 2-Analista, 3-Assistente, 4-Estagiário): "))
 salario_base = float(input("Digite o salário base: "))
